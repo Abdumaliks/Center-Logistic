@@ -1,4 +1,4 @@
 # Center-Logistic
 
-Open file index.html
+To view the project, open the index.html 
 
