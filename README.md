@@ -1,3 +1,4 @@
 # Center-Logistic
 
-Open file index.js
+Open file index.html
+
